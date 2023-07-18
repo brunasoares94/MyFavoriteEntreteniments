@@ -34,13 +34,13 @@ h2{
     color: yellow;
     font-size: 35px;
     display: flexbox;
-    position: center;
+    position: center center;
 }
 
-.textofinaly{
+.imgcoracao{
     font-family: 'Tektur', cursive;
     color: yellow;
     font-size: 35px;
-    display: flex;
-    position: left;
+    display: flexbox;
+    position: center center;
 }
