@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Montserrat:wght@300&family=Tektur:wght@700&display=swap');
+
+p.principal {
+
+    font-family: 'Tektur', cursive;
+    color: yellow;
+    font-size: 15px;
+}
+
+body {
+    background-image: url(../img/abstrato-de-lampada-criativa-em-ia-generativa-de-fundo-azul-brilhante.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: center center;
+  }
+
+h3 {
+    color: blanchedalmond;
+}
+
+.nome {
+    color: rgb(241, 241, 235);
+    font-weight: bold;
+
+}
+
+h2{
+    color: aliceblue;
+    font-family: 'Tektur', cursive;
+}
+
+.texto{
+    font-family: 'Tektur', cursive;
+    color: yellow;
+    font-size: 35px;
+    display: flexbox;
+    position: center center;
+}
